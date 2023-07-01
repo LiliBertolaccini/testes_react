@@ -1,0 +1,1 @@
+{"fileName":"/Users/lilianbarrosbertolaccini/PROJETOS/sd-025-b-project-react-testing-library/src/pages/FavoritePokemons.js","id":"2","location":{"start":{"column":20,"line":13},"end":{"column":44,"line":13}},"mutatorName":"ConditionalExpression","replacement":"false","statusReason":"Ignored because of excluded mutation \"ConditionalExpression\"","status":"Ignored","static":false}
